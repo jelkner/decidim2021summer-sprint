@@ -1,1 +1,4 @@
 # Max's Summer Prime Program Journal
+**On the first day,** we spent the majority of the time setting up our workspace and connecting to the Internet at CoworkCafe. I did some tutorials with Unix and Vim to help prepare to use them on the following days. Worked from 7:30-1:30.
+**On the second day,** we had a virtual field trip with the Prime Program to be able to speak to people currently in the STEM field in Northern Virginia. The majority of the Zoom call was spent trying to sell the world of engineering to us viewers.
+**On the third day,** we hit the ground running. First, we tested and became fmailiar with BBB in preparation for our video conference with Colombene Gorton this afternoon. We communicated this with her through Zulip. Then, we cloned the git repository that we are working on to ur computers. After that, we each added our own journals to the repository and made commits for each of them. Today, we have had to put our practice with Git and Vim to use.
