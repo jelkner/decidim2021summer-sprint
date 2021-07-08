@@ -9,7 +9,7 @@ fit in the Cowork Cafe lockers.
 
 The rest of the time Ivy, Karim, Marian and Max spent doing a crash course
 on the [Unix CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
-starting to learn [vim](https://en.wikipedia.org/wiki/Vim_(text_editor).
+starting to learn [vim](https://en.wikipedia.org/wiki/Vim_\(text_editor\)).
 
 They have a "field trip" tomorrow, and Thursday we will dive into git and
 begin our investigation and documentation of [Decidim](https://decidim.org/).
