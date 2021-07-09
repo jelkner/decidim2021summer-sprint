@@ -40,6 +40,32 @@ Yesterday afternoon [Colombene gave a presentation](https://meetings.agaric.coop
 on [UX](https://en.wikipedia.org/wiki/User_experience). I wasn't present
 during the presentation, but I just finished listening to it now.
 
+Having Colombene join NOVA Web Development is a game changer for us, as her
+presentation makes abundantly clear. If we are going to offer Decidim support
+as part of our business plan, success will depend overwhelmingly on our ability
+to deeply understand the *user experience* related to its use, and to be able
+to make that user experience as engaging as possible. If we fail to do that,
+users will simply not want to use it, and any hope of it being and effective
+tool for
+[participatory democracy](https://en.wikipedia.org/wiki/Participatory_democracy)
+and
+[participatory economics](https://en.wikipedia.org/wiki/Participatory_economics)
+will be lost.
+
+The plutocrats who run our country are able to make us do the the work of
+planning, building, and maintaining the means of social reproduction by
+threating to withhold work, the means of social existance in our system, from
+us if we fail to do their bidding. A democratic system will have no such
+coercive power, and will instead have to rely on engaging our higher
+motivations to inspire us to do the work that needs to be done. Success with
+Decidim will mean learning how to make using it an experience that engages
+these higher motivations.
+
+On Monday I'll report on how our interns did with setting up a running
+instance of Decidim. If they can't accomplish that today, I'll need to ask
+for help from the NOVA Web development team to finish the task, so that we
+are ready to begin exploring its use on Monday.
+
 
 ## Tuesday, July 6th
 
