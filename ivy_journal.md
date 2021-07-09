@@ -44,8 +44,8 @@ to use Ubuntu instead of Debian. So, we went through the lengthy process of
 turning our home directories to tar and then putting it onto a new Ubuntu 
 server. While this was running, we investigated more into Decidim. From the 
 Decidim Docs, I learned the following information:
-** Particapatory Spaces ** | ** Participatory Components **
+** Participatory Spaces ** | ** Participatory Components **
 -------------------------- | -----------------------------
-* channels to participate through | * mechanisms to enable interaction
-* processes, initiatives, consultations, and assemblies | * meetings, pages, proposals, and surveys
+channels to participate through | mechanisms to enable interaction
+processes, initiatives, consultations, and assemblies | meetings, pages, proposals, and surveys
 
