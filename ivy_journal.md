@@ -20,4 +20,20 @@ cloned the repository and created Markdown journals. We applied what we learned
 about Vim on Tuesday to edit these journals. Next, we learned how to add,
 commit, push and pull to make sure that our work is saved and uploaded into the
 repo. I learned about merges, and how merge conflicts can occur. Finally, we
-applied this to push our journals and pull our colleagues' journals.
+applied this to push our journals and pull our colleagues' journals. Towards the
+afternoon, we met Colombene. She introduced us to UX, or User Experience. I 
+think my main takeaway from that was there are a lot of different factors to 
+juggle when looking at software or products from a UX point of view. We finished
+off the day by making a plan to install Decidim on Friday.
+
+## Friday, July 9
+
+We began today by having a morning meeting discussing our reasons for doing 
+PRIME and what we hope to gain from this experience. Then, we reviewed our goals
+for the day, which included installing Decidim. After discussion with Jeff and
+then amongst us interns, we decided to follow the helpful instructions sent by 
+Louis. There were some roadblocks along the way, but we were able to resolve 
+them. For example, installing Ruby and some of the other software required a git
+clone. However, we received an error message that 'git' wasn't recognized by the
+program. We problem solved this by looking up how to install git, and then 
+executing that command. 
