@@ -1,1 +1,7 @@
+
 # Karim's Summer Prime Internship Journal 2021
+Tuesday, July 6th: This was my first day as an actual intern from Prime for Nova Web Development. Upon arriving to the Cowork cafe, which is the place where we'll work for the rest of July, I was able to meet the other interns, Max, Ivy, and Marion, as well as incoming college freshman, Hisham, and member of NWD, Jeff Elkner. We started out by setting everyone up to the wifi and going a sort of plan for what we are going to be working on and deliver to the coop, much like any other job orientation. Most of the work that we will be conducting will be investigating Decidim. After that, I started workibg on basic Unix comman lines and using a tutorial for vim. I was also able to set up and download github, as well as zulip and access all the NWD chats.
+
+Wednesday, July 7th: N/A PFD(Prime Field Day)
+
+Thursday, July 8th: The big focus of this moring was cloning the decidim repository that we will be using the summer to conduct our investigation on Decidim. In our terminal window, we were all able to successfully complete this and set up our journals to fill up. What we also worked on this moring was practicing our skills on Big Blue Button and use the different features on there.   
