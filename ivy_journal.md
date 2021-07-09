@@ -36,4 +36,7 @@ Louis. There were some roadblocks along the way, but we were able to resolve
 them. For example, installing Ruby and some of the other software required a git
 clone. However, we received an error message that 'git' wasn't recognized by the
 program. We problem solved this by looking up how to install git, and then 
-executing that command. 
+executing that command. After resolving this and continuing forth, we ran into a
+problem installing Passenger to connect Ruby with Nginx. Specifically, we got an
+error of unmet dependencies. We found some tips online, but they didn't resolve
+the problem. We contacted Louis for some help with it. 
