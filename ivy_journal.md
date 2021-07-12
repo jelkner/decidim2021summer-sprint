@@ -36,4 +36,16 @@ Louis. There were some roadblocks along the way, but we were able to resolve
 them. For example, installing Ruby and some of the other software required a git
 clone. However, we received an error message that 'git' wasn't recognized by the
 program. We problem solved this by looking up how to install git, and then 
-executing that command. 
+executing that command. After resolving this and continuing forth, we ran into a
+problem installing Passenger to connect Ruby with Nginx. Specifically, we got an
+error of unmet dependencies. We found some tips online, but they didn't resolve
+the problem. We contacted Louis for some help with it. It turns out, we needed
+to use Ubuntu instead of Debian. So, we went through the lengthy process of
+turning our home directories to tar and then putting it onto a new Ubuntu 
+server. While this was running, we investigated more into Decidim. From the 
+Decidim Docs, I learned the following information:
+ Participatory Spaces | Participatory Components
+-------------------------- | -----------------------------
+channels to participate through | mechanisms to enable interaction
+processes, initiatives, consultations, and assemblies | meetings, pages, proposals, and surveys
+
