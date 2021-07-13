@@ -49,3 +49,18 @@ Decidim Docs, I learned the following information:
 channels to participate through | mechanisms to enable interaction
 processes, initiatives, consultations, and assemblies | meetings, pages, proposals, and surveys
 
+## Monday, July 12
+
+Today, we began our exploration of Decidim. In the end, we were unable to get 
+it up and running on our own, so NOVA Web did it for us. We all created our own
+processes in Decidim and explored the different components within the processes.
+So far, most of the components are fairly straightforward, with the exception of
+the Proposals. That is quite confusing. Right now, my hypothesis is that in 
+order to have working proposals, you have to upload a participatory text. I
+uploaded the Resources Link file, which is on GitHub, just to test it out, but
+I have to figure out how to delete proposals. I have accepted and rejected some
+proposals, but it doesn't seem to remove them from the list of proposals. My 
+goal for tomorrow is to figure out how to delete proposals, maybe by making them
+into "past processes" or along those lines. I created a meeting for tomorrow, 
+changed the color scheme of the website, created a process group, among other 
+features but there are still more to explore. 
