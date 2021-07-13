@@ -64,3 +64,37 @@ goal for tomorrow is to figure out how to delete proposals, maybe by making them
 into "past processes" or along those lines. I created a meeting for tomorrow, 
 changed the color scheme of the website, created a process group, among other 
 features but there are still more to explore. 
+
+## Tuesday, July 13
+
+This morning, Hisham let me know that proposals can't be deleted by design, 
+does make sense to me thinking about it from a participatory democracy 
+perspective. However, I was able to unpublish the "Proposals" page I had
+created, so it's no longer viewable to the public. I created another Proposal
+component, but named it "Your Ideas." This time, I changed up the settings in
+the configurations to disable Participatory Texts. Therefore, when I created a 
+proposal, I didn't need to also upload a Text and I could just do simple 
+Proposal. It's lot easier without doing the text, which looks really strange
+on the page since it has to have headings and subheadings on top of the proposalitself. But the website makes the subheadings and proposals look really similar,
+even making it so the subheadings can be supported, endorsed, etc, like a real
+proposal. 
+Moving on, today I explored the *Accountability* component of Decidim. I thought
+this would be a lot easier than it was, but there are a lot of things that go
+into it. It's basically a progress report on projects and other stuff. So far, I
+am pretty sure that you have to have categories set up in order to actually 
+display anything on the Accountability tab. So, on your process' dashboard, look
+below "Components" and it's sub-features to "Categories" and create some stuff
+there. Use the "Parents" feature to create sub-categories. Once this is done,
+you can use Accountability, which personally, I think needs a better name. Next,
+keeping in mind the project you are reporting progress on, create status' that 
+can apply to that project. Finally, press the new results button to create a
+progress chart. You can link it to a Project from Budgets or a Proposal. Make
+sure that you link it to a category so that it shows up in the Accountability 
+tab. You can also put progress reports inside of other ones, for example if you
+have a large project consisting of several smaller ones, you can put the smaller
+ones' progress reports inside of the other ones. As time goes on, and you want 
+to update the progress or scope of the project you can. There is a version 
+history on the public site, which shows the updates made to the project. You can
+also add to the "Project Evolution" in case the project expands or contracts. 
+The project evolution is displayed on the website as well, in a much more 
+readable fashion than the version history. 
