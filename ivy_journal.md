@@ -98,3 +98,38 @@ history on the public site, which shows the updates made to the project. You can
 also add to the "Project Evolution" in case the project expands or contracts. 
 The project evolution is displayed on the website as well, in a much more 
 readable fashion than the version history. 
+
+# Thursday, July 15
+
+Today, I worked on some more features of Decidim. I played with the *Debates* 
+component, which I think really should have been named discussion. This is 
+fairly similar to Proposals except that you can't like or dislike it, and it 
+can't be officially accepted or rejected as proposals can. This morning, Jeff 
+briefed us on his vision for the application of Decidim with regards to US Tech
+Workers Coop. This involved having different groups on the site so that everyone
+can see everything but only certain people can interact with it. We played 
+trying to find a solution: I made a group, but that doesn't really do anything 
+except allowing you to make a conversation with them. Max made a scope, but that
+didn't work very well either. I looked through the Meta Decidim *I Have A
+Question* page, and found a [post](https://meta.decidim.org/processes/supportforum/f/705/proposals/15835?locale=ca%2Ff%2F705%2Fproposals%2Fnew&order=recent&per_page=100) which had the instructions to do what we wanted. Assemblies can be
+used to really configure who is able to see and participate in things. There are
+several different settings in assemblies:
+Type of Assembly | Who Can See | Who Can Participate
+---------------- | ----------- | -------------------
+Default | Everyone | Everyone
+Transparent | Everyone | Specific Users
+Private | Specific Users | Specific Users
+We are interested in the Transparent assembly, where only members of NOVA Web 
+can vote and participate, but everyone can see what's going on. Besides the
+permissions, an assembly is essentially the same as a process. You can add all
+the same components, categories, info, and you can create admins. Another cool
+thing is that you can create child assemblies. This is super useful and fits in 
+wonderfully with Jeff's vision of using it in the USTWC site. Each Coop can have
+it's own Assembly page. Within that, if they want to vote on stuff within their
+coop, then they can create an assembly inside of it to do that. Also, for NOVA 
+Web, this is useful for when there are non-voting members of the coop that still
+want to participate. They won't be members of the specific voting issue, but 
+they can still see what's going on. Another useful thing could be setting up a 
+voting assembly for the USTWC as a whole. Each coop could have a representative
+in that assembly, and USTWC could vote on issues that affect the whole
+organization. 
