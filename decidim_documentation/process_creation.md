@@ -38,4 +38,4 @@ Creating processes can be tedious at times, but being able to understand what ea
 For information on how to create each component, click [here]()
 For information on phases, click [here]()
 For information on creating categories, click [here]()
-To better understand why [NOVA Web Development](https://novawebdevelopment.org/) is working to make this documentation, click [here](blob/main/decidim_documentation/docs_explanation.md)
+To better understand why [NOVA Web Development](https://novawebdevelopment.org/) is working to make this documentation, click [here](docs_explanation.md)
