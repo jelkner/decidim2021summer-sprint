@@ -133,3 +133,29 @@ they can still see what's going on. Another useful thing could be setting up a
 voting assembly for the USTWC as a whole. Each coop could have a representative
 in that assembly, and USTWC could vote on issues that affect the whole
 organization. 
+Later that afternon, we talked with Louis and discussed some goals for the next two weeks of PRIME. We decided that continuing to explore Decidim is not a good plan as we are just about done with that. We were talking about how setting up
+Decidim was a real challenge in a way because there was confusion over what 
+things actually did and some things can't be deleted. So, if you're figuring out
+how things work, you really have to do it on a dogfood website or else you'll 
+have a bunch of junk on the actual site. Louis brought up the fact that really, this could be solved by us. We could write documentation for Decidim, which 
+would really help people to use it. It's so much easier to do something when 
+someone tells you *what* and *how* to do it, without necessarily knowing the 
+*why* of it. That's one option for the rest of the internship, and another 
+option would be to play around more with the back-end stuff of Decidim. For 
+example, one thing that I found was changing the currency. Decidim doesn't allow
+that in admin dashboard, you have to go in to the app config file. Another thing
+that I'd like to do in there is go into the database and manually remove the 
+proposals component that I created, which is obsolete. However, if we're playing
+around with the back-end side of things, that is at risk of breaking the site.
+So, Louis suggested getting a second instance of Decidim up and running on the
+same server: one for front-end exploration and the other for back-end. If the
+secondary one crashes, it's not too big of a deal because we can just continue
+using the primary in the meantime. As well, apparently installing Decidim for 
+the second time on the same server is a lot easier because a lot of the stuff is
+already there. It would be a good way for us to expand our knowledge, which is
+why we have plans to do so on Monday. 
+
+# Friday, July 16
+This morning, we used our daily meeting to debrief Jeff on the outcome of our 
+discussion with Louis (see above). Afterwards, we tested out computer
+functionality for our upcoming meetings with OpenSource Politics and FundAction.
