@@ -1,0 +1,3 @@
+# Why do we need new Decidim documentation?
+
+The current documentation in Decidim makes it quite difficult to learn, when it realistically should be fairly basic and straightforward. As [NOVA Web Development](https://novawebdevelopment.org/), we are making an effort to simplify the process that is learning to use Decidim. We went through the experimentation and "play" phase with a dogfood instance of Decidim for several days before we felt somewhat comfortable with it, but that should not have to be the case for anyone trying to implement Decidim. Though some level of technological expertise will likely still be needed to be an admin on Decidim, we still want to try to help as much as possible.
