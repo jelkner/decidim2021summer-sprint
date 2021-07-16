@@ -41,4 +41,4 @@ For information on phases, click [here]()
 
 For information on creating categories, click [here]()  
 
-To better understand why [NOVA Web Development](https://novawebdevelopment.org/) is working to make this documentation, click [here](docs_explanation.md)
+To better understand why [NOVA Web Development](https://novawebdevelopment.org/) is working to make this documentation, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/docs_explanation.md)
