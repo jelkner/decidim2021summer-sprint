@@ -37,7 +37,7 @@ Creating processes can be tedious at times, but being able to understand what ea
 
 For information on how to create each component, click [here]()  
 
-For information on phases, click [here]()  
+For information on phases, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/phase_creation.md)  
 
 For information on creating categories, click [here]()  
 
