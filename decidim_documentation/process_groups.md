@@ -18,9 +18,9 @@
 1. Once you feel ready, select "Info" on your process group's admin page. Scroll down to the bottom and select "Publish". Each time you make an edit on the "Info" page, make sure you scroll to the bottom and tap "Update"
 1. Now you can create processes and connect them to this process group (instructions for doing so are found in step 3)
 
-# Process Group Created!
+## Process Group Created!
 
-# Additional Information
+## Additional Information
 
 For information on how to create each component, click [here]()
 

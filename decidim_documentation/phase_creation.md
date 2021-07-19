@@ -14,9 +14,9 @@
 1. **Optional:** Start and End Dates help to be able to map out your process' plan. They are optional, but if they are applicable to your process, I would suggest doing it. It helps users to be able to see what they should be doing at any given moment while your process is active. These dates are displayed alongside your title on both the main process pages and on the "Process phases" screen
 1. **Optional:** Call to Action path and text is a button that is displayed on the main process pages that can direct the user to whatever part of the process is related to the current phase. The text can be whatever you want, but try not to make it more than a few words. The path will be only the very end of the URL connected to the process componenet you want to direct people to. This is often something like "f/12/" and the full url is shown beneath this text box on the configuartion screen  
 
-# Phase Created!
+## Phase Created!
 
-# Additional Information
+## Additional Information
 
 For information on how to create each component, click [here]()  
 

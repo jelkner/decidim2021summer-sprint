@@ -29,11 +29,11 @@
 1. You can select "View public page" to see what your process will look like once published
 1. From here, you can either create "Components", "Phases", "Categories", etc. or you can publish your process as it is and you will be able to add any of these other features over time. Also, you will still be able to edit your process as a whole in "Info" once your process is published, you will just need to scroll to the bottom of the "Info" page and click "Update" each time you do
 
-# Process Created!
+## Process Created!
 
 Creating processes can be tedious at times, but being able to understand what each step of process configuration truly does should allow for a much smoother experience as a Decidim Admin.
 
-# Additional Information
+## Additional Information
 
 For information on how to create each component, click [here]()  
 
