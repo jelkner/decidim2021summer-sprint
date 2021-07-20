@@ -23,3 +23,4 @@ used to the three git commands: git add, git commit, git push.
 
 **July 19:** Today the group is going to attend a meeting with FundAction at 11:15 am. It's going to be held in the freezer room and we'll use BigBlueButton to connect with the company. During the meeting, questions will be asked that come from the Ustechworkercoops website where they were planned out by the group. After it ends, we have another meeting at 12:00 pm. Tomorrow we are going to have another meeting at 9:55 with Open Source Politics. Their timezone is different than ours, so planning was a bit more difficult. They are 6 hours ahead of us. 
 
+**July 20** Today the group is going to attend a meeting at 9:55 with Open Source Politics.
