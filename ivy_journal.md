@@ -159,3 +159,23 @@ why we have plans to do so on Monday.
 This morning, we used our daily meeting to debrief Jeff on the outcome of our 
 discussion with Louis (see above). Afterwards, we tested out computer
 functionality for our upcoming meetings with OpenSource Politics and FundAction.
+Next, we prepared for our meeting with FundAction by coming up with a list of
+questions to ask. We messed around with Assemblies a bit, creating a Test Child
+Assembly for the PRIME Assembly. 
+
+# Monday, July 19
+We met with FundAction at 11:15, so we spent that morning preparing by testing
+out the computer and going over and adding some more questions. The FundAction
+meeting was somewhat helpful for seeing what actual Decidim users felt like. She
+said that they pay someone to set up Decidim for them, and that it was 
+definitely a paid job. She also said that many of her colleagues didn't really
+like using it since it's somewhat complicated. She did mention that they don't 
+provide any intro or training for it, but people rely on the members who invited
+them to join. I think that this kind reassures us that yes, people will pay for
+Decidim installation and that Documentation is super useful and is desperately
+needed by Decidim. It wasn't super helpful for learning about deployment and 
+other technical features of Decidim, but it did provide a new perspective on it.
+Afterwards, we met with Louis to talk about how we were having trouble with 
+assemblies. We couldn't create proposals on US Tech Worker Coops on the assembly
+even though we were members and the one on Dogfood worked. Louis said he would 
+look into it more.
