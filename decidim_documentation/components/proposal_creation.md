@@ -1,6 +1,6 @@
 # Proposal Creation
 
-## Part 1 will only work if you are an admin
+**Part 1 will only work if you are an admin**
 
 ## Part 1: Creating the Component
 1. Access the Admin Dashboard
