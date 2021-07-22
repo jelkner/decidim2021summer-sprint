@@ -119,6 +119,7 @@ Type of Assembly | Who Can See | Who Can Participate
 Default | Everyone | Everyone
 Transparent | Everyone | Specific Users
 Private | Specific Users | Specific Users
+
 We are interested in the Transparent assembly, where only members of NOVA Web 
 can vote and participate, but everyone can see what's going on. Besides the
 permissions, an assembly is essentially the same as a process. You can add all
