@@ -179,3 +179,17 @@ Afterwards, we met with Louis to talk about how we were having trouble with
 assemblies. We couldn't create proposals on US Tech Worker Coops on the assembly
 even though we were members and the one on Dogfood worked. Louis said he would 
 look into it more.
+
+# Tuesday, July 20
+Today, we met with Open Source Politics. The representative was super helpful, 
+she walked us through their business plan and even offered to help NOVA Web on
+their journey by partnering and giving a tutorial. I think we were all pretty
+pleased about that meeting, but it definitely was a lot to absorb. Now that we
+have some positive news about Decidim, we re-evaluated our PRIME goals for the 
+summer. In a way, we had two options: continue with the more technical side, by
+developing documentation, or switch to the more social/political side, by 
+researching OSP and market interest in participatory democracy or budgeting. We 
+also figured out the problem with assemblies. It was that you have to also add 
+people as "Private Users", not just members. I did this for Dogfood's PRIME 
+assembly but I completely forgot that I did that until Louis and Max figured it 
+out. 
