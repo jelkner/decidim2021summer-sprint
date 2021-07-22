@@ -20,4 +20,4 @@ reusable public goods that could help other governments and citizens as well
 
 Although open source democracy technology isn't as profitable for investors, it
 profits citizens and democracy in the long run. 
-(source)[https://medium.com/open-source-politics/french-civic-tech-is-turning-away-from-the-digital-commons-creation-dynamic-we-need-to-transform-efd7867c3eb2]
+[source](https://medium.com/open-source-politics/french-civic-tech-is-turning-away-from-the-digital-commons-creation-dynamic-we-need-to-transform-efd7867c3eb2)
