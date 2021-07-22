@@ -4,7 +4,7 @@
 
 1. Access the Admin Dashboard
 1. Select "Processes" on the far left
-1. If you are making a single process, select "Processes". If you want to make a "Process Group" (which is a single space where multiple processes can exist) go [here]()
+1. If you are making a single process, select "Processes". If you want to make a "Process Group" (which is a single space where multiple processes can exist) go [here](https://github.com/jelkner/decidim2021summer-sprint/tree/main/decidim_documentation)
 1. Tap "New Process"
 1. Enter the title of your process, this will appear from the "Processes" page of the home screen and in large font at the top of your process' page
 1. Enter the subtitle, which will appear beneath your title in a smaller font on your process' page
