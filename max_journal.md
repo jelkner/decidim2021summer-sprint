@@ -33,3 +33,8 @@
 ## 7/20/2021
 **On the eleventh day,** we were somewhat in need of a task to complete prior to the call with Open Source Politics. We still have 90 minutes left and there isn't any specific task we left off with yesterday that we planned on continuing today. We had our talk with OSP and it gave Jeff the hope that he needed to focus on actually implementing Decidim in the various cases that he was looking for. It felt a bit like the call was just their representative trying to sell OSP to us, but I guess it worked. Now, us interns have to make a decision individually about whether we want to pursue the more technical and documentation aspect or the more political and marketing aspect. Although I have been leading the team with the documentation in a sense, I am a bit more interested in the process of trying to sell Decidim to companies and being in communication with OSP and others. I might wait to see how the others split off and decide which one I feel could use me more. We will basically be discussing this for the remainder of our time today and be able to reconvene with Jeff on Thursday.  
 
+## 7/21/2021
+**On the twelfth day,** we had another virtual group day. Today's talk was largely about accepting and utilizing your skills and flaws. That regardless whether or not you consider yourself to be more adventurous, you can always find ways to push the limits of your comfort zone.
+
+## 7/22/2021
+**On the thirteenth day,** we began our individual explorations for either the technological aspect or the political aspect of Decidim. I chose to learn more about the political aspect and we have been tasked with researching everything we can find about Open Source Politics, as NWD may very well be in a partnership with them.
