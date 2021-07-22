@@ -42,3 +42,14 @@ screen to bring you to a list of assemblies.
 people to. 
 	- On the left side of the screen, click on "Private Users". These are 
 users who will be able to interact with the components of the assembly.  
+
+## Additional Information
+
+For information on how to create each component, click [here]()
+
+For information on creating processes, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/process_creation.md)
+
+For information on creating categories, click [here]()
+
+To better understand why [NOVA Web Development](https://novawebdevelopment.org/) is working to make this documentation, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/docs_explanation.md)
+
