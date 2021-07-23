@@ -9,23 +9,18 @@ Economies; 5) Internet Freedom
 	* committed to giving to marginalized communities and at least 25% to 
 "social justice strategies, such as advocacy, community organizing, and civic
 engagement"
-2. W. K. Kellog: 
-	* mainly focused on children, so I don't think it quite fits what NOVA
-Web wants to do. 
-3. [Silicon Valley Community Foundation](http://www.siliconvalleycf.org) 
+2. [Silicon Valley Community Foundation](http://www.siliconvalleycf.org) 
 	* Potential areas to apply to: Regional Planning and Community 
 Opportunity Fund
 	* committed to giving to marginalized communities and at least 25% to 
 "social justice strategies, such as advocacy, community organizing, and civic 
 engagement"
-4. [Carnegie Corporation of New York](https://www.carnegie.org/)
+3. [Carnegie Corporation of New York](https://www.carnegie.org/)
 	* Potential area to apply to: Pathways to Citizenship and Civic
 Integration
 	* especially: 3) Citizenship and nonpartisan civic engagement: integrate
 immigrants into the nation’s civic and economic life;
-5. The JPB Foundation:
-	* povert, medical research, and environment focus - not very suitable
-6. [Foundation to Promote Open Society](http://www.opensocietyfoundations.org)
+4. [Foundation to Promote Open Society](http://www.opensocietyfoundations.org)
 	* great opportunity! Seems like they would be super interested in what
 NOVA Web wants to do:
 	* "support efforts to engage citizens not just in voting, but in 
@@ -34,4 +29,23 @@ all their people."
 	* "support groups that monitor government action and promote 
 transparency and accountability as a check on corruption and abuse in the 
 democratic process."
+5. [NEO Philanthropy, Inc](https://neophilanthropy.org)
+	* Currently doing a [state infrastructure fund](https://neophilanthropy.org/collaborative-funds/state-infrastructure-fund/) targeting specific states, 
+including VA for civic participation and enfranchisement
+6. [The James Irvine Foundation](https://www.irvine.org/our-approach/)
+	* "Residents understand and influence the economic development 
+priorities in their communities"
+	* "Institutions, policies, and practices enable economic advancement and
+civic participation"
+	* For CA only, but I figure since Louis and Colombene are over there
+7. [John S. and James L. Knight Foundation, Inc.](https://knightfoundation.org/programs/communities/)
+	* Communities Program, including Long Beach, CA in Los Angeles
+	* "we invest in technology-enabled efforts that help residents connect 
+to each other and become more informed, and that help cities be more responsive 
+to residents."
+8. [Pizzigati Prize](https://www.nten.org/community/pizzigati-prize/)
+	* "seeks to honor software developers who create, for free public 
+distribution, open source applications and tools that nonprofit and advocacy 
+groups can put to good use."
+	* could nominate Decidim developers or OSP or NWD
 
