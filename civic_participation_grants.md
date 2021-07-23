@@ -25,9 +25,9 @@ Integration
 immigrants into the nation’s civic and economic life;
 5. The JPB Foundation:
 	* povert, medical research, and environment focus - not very suitable
-6. (Foundation to Promote Open Society](http://www.opensocietyfoundations.org)
+6. [Foundation to Promote Open Society](http://www.opensocietyfoundations.org)
 	* great opportunity! Seems like they would be super interested in what
-NOVA Web wants to do
+NOVA Web wants to do:
 	* "support efforts to engage citizens not just in voting, but in 
 ensuring that governments respond to the challenges of the day and the needs of 
 all their people."
