@@ -119,6 +119,7 @@ Type of Assembly | Who Can See | Who Can Participate
 Default | Everyone | Everyone
 Transparent | Everyone | Specific Users
 Private | Specific Users | Specific Users
+
 We are interested in the Transparent assembly, where only members of NOVA Web 
 can vote and participate, but everyone can see what's going on. Besides the
 permissions, an assembly is essentially the same as a process. You can add all
@@ -155,7 +156,8 @@ the second time on the same server is a lot easier because a lot of the stuff is
 already there. It would be a good way for us to expand our knowledge, which is
 why we have plans to do so on Monday. 
 
-# Friday, July 16
+## Friday, July 16
+
 This morning, we used our daily meeting to debrief Jeff on the outcome of our 
 discussion with Louis (see above). Afterwards, we tested out computer
 functionality for our upcoming meetings with OpenSource Politics and FundAction.
@@ -163,7 +165,8 @@ Next, we prepared for our meeting with FundAction by coming up with a list of
 questions to ask. We messed around with Assemblies a bit, creating a Test Child
 Assembly for the PRIME Assembly. 
 
-# Monday, July 19
+## Monday, July 19
+
 We met with FundAction at 11:15, so we spent that morning preparing by testing
 out the computer and going over and adding some more questions. The FundAction
 meeting was somewhat helpful for seeing what actual Decidim users felt like. She
@@ -180,7 +183,8 @@ assemblies. We couldn't create proposals on US Tech Worker Coops on the assembly
 even though we were members and the one on Dogfood worked. Louis said he would 
 look into it more.
 
-# Tuesday, July 20
+## Tuesday, July 20
+
 Today, we met with Open Source Politics. The representative was super helpful, 
 she walked us through their business plan and even offered to help NOVA Web on
 their journey by partnering and giving a tutorial. I think we were all pretty
@@ -193,3 +197,12 @@ also figured out the problem with assemblies. It was that you have to also add
 people as "Private Users", not just members. I did this for Dogfood's PRIME 
 assembly but I completely forgot that I did that until Louis and Max figured it 
 out. 
+
+## Thursday, July 22
+
+Today, we decided that we were going to go ahead with information gathering
+about Decidim. I uploaded a [file](https://github.com/jelkner/decidim2021summer-sprint/blob/main/OSP_info/reasoning.md) to Git with some of OSP's reasoning for
+why they exist and why participatory democracy with open source software is so
+important. I got my information from a very interesting article by one of the 
+founders of Decidim. 
+
