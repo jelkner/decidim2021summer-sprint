@@ -212,6 +212,6 @@ Today, during our meeting with Jeff we got a little more information about our
 objectives for our investigation into OSP and Decidim as a business plan. I 
 spent the morning researching foundations that suppot grants for civic 
 participation, which I created a [file in GitHub](https://github.com/jelkner/decidim2021summer-sprint/blob/main/civic_participation_grants.md) for. One 
-foundation seemed particularly interesting, called [Foundation to Promote Open
-Societ](https://www.opensocietyfoundations.org/), which is supported by George
-Soros. 
+foundation seemed particularly interesting, called the [Foundation to Promote 
+Open Society](https://www.opensocietyfoundations.org/), which is supported by 
+George Soros. 
