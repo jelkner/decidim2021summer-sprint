@@ -26,3 +26,5 @@ used to the three git commands: git add, git commit, git push.
 **July 20** Today the group is going to attend a meeting at 9:55 with Open Source Politics.
 
 **July 22** Today I will be researching and learning more about Open Source Politics.
+
+**July 23** Today I will be researching about grants that can be added to the company.
