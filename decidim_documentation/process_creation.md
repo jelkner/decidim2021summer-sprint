@@ -4,11 +4,11 @@
 
 1. Access the Admin Dashboard
 1. Select "Processes" on the far left
-1. If you are making a single process, select "Processes". If you want to make a "Process Group" (which is a single space where multiple processes can exist) go [here]()
+1. If you are making a single process, select "Processes". If you want to make a "Process Group" (which is a single space where multiple processes can exist) go [here](https://github.com/jelkner/decidim2021summer-sprint/tree/main/decidim_documentation)
 1. Tap "New Process"
 1. Enter the title of your process, this will appear from the "Processes" page of the home screen and in large font at the top of your process' page
 1. Enter the subtitle, which will appear beneath your title in a smaller font on your process' page
-1. Enter the weight of this process, this changes the order processes will appear on the "Processes" page. The lower the weight, the closer to the top the process will appear. In all likelihood, leaving the weight at 0 will be the default for processes
+1. **Optional:** Enter the weight of this process, this changes the order processes will appear on the "Processes" page. The lower the weight, the closer to the top the process will appear. In all likelihood, leaving the weight at 0 will be the default for processes
 1. Create a URL slug for your process, this is what will be added to the end of your website domain and can just be the title of your process or something similar
 1. **Optional:** You can add a hashtag, this will appear next to your subtitle and will link to any time that hashtag had been used on Twitter in the past. This will also appear on your "Processes" page along with your title and short description
 1. Give a short description of your process, this will look similar to a header above your full length description on your next step, so make it short and not too detailed. This will also appear on the "Processes" page beneath your title
@@ -35,7 +35,7 @@ Creating processes can be tedious at times, but being able to understand what ea
 
 ## Additional Information
 
-For information on how to create each component, click [here]()  
+For information on how to create each component, click [here](https://github.com/jelkner/decidim2021summer-sprint/tree/main/decidim_documentation/components)  
 
 For information on phases, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/phase_creation.md)  
 

@@ -22,7 +22,7 @@
 
 ## Additional Information
 
-For information on how to create each component, click [here]()
+For information on how to create each component, click [here](https://github.com/jelkner/decidim2021summer-sprint/tree/main/decidim_documentation/components)
 
 For information on creating phases, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/phase_creation.md)
 
