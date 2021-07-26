@@ -8,7 +8,7 @@
 1. Select the process/assembly you wish to create this proposal in
 1. Tap "Components" on the left side
 1. Select the "Add component" drop down menu and choose "Proposals"
-1. Give your proposal a name, whether you want to keep it as "Proposals" or make it slightly more relevant to your process or assembly. This will be displayed as a tab on your process'/assembly's page
+1. Give your proposals tab a name, whether you want to keep it as "Proposals" or make it slightly more relevant to your process or assembly. This will be displayed as a tab on your process'/assembly's page
 1. **Optional:** You can add a weight to your proposals tab. This sets the order in which component tabs will appear on the process/assembly page. The lower the number, the closer to the left the componenet tab will be. If the order is irrelevant to your process/assembly, you can leave all component weights at 0
 1. **Optional:** You can enable scopes and select the scope that your process'/assembly's proposals would fall into. This helps when participants are trying to filter every proposal on your site. Scopes can also be set by individual proposals, so you could just wait on this decision to add a scope until you are making a proposal
 1. **Optional:** You can place a support limit, minimum supports, and/or a proposal limit. The support limit means that participants can only support a certain numbe rof proposals. Minimum supports is the number of proposals each participant must support at the very least. Proposal limit is the number of proposals each participant is allowed to create. If all of these are set to 0, there is no limit/minimum in place
