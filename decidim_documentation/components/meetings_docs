@@ -1,0 +1,15 @@
+# Meetings Creation
+
+**This will only work if you are an admin**
+
+1. Access the Admin Dashboard
+1. Select either ["Processes"](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/assemblies_docs.md) or ["Assemblies"](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/assemblies_docs.md) on the far left, depending on what you are making this proposal in
+1. Select the process/assembly you wish to create this meeting in
+1. Tap "Components" on the left side
+1. Select the "Add component" drop down menu and choose "Meetings"
+1. Give your meetings tab a name, whether you want to keep it as "Meetings" or make it slightly more relevant to your process or assembly. This will be displayed as a tab on your process'/assembly's page
+1. **Optional:** You can add a weight to your meetings tab. This sets the order in which component tabs will appear on the process/assembly page. The lower the number, the closer to the left the componenet tab will be. If the order is irrelevant to your process/assembly, you can leave all component weights at 0
+1. **Optional:** You can enable scopes and select the scope that your process'/assembly's meetings would fall into. This helps when participants are trying to filter every meeting on your site
+1. **Optional:** You can create an announcement that will appear at the top of the meetings page in a special banner. Use this if there is something that you want to draw attention to
+1. **Optional:** You can add default registraion terms, which is a basic set of terms and services that appears as people register for meetings. Could be something like "This meeting will be recorded" or something like that which they would be agreeing to
+1. **Optional:** You can choose to enable comments on meetings, which will create a comment section on the bottom of each meetings' page. You can alse set a character limit for comments or just leave it at 0 and have it at the default value of 1000.
