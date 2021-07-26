@@ -204,5 +204,33 @@ Today, we decided that we were going to go ahead with information gathering
 about Decidim. I uploaded a [file](https://github.com/jelkner/decidim2021summer-sprint/blob/main/OSP_info/reasoning.md) to Git with some of OSP's reasoning for
 why they exist and why participatory democracy with open source software is so
 important. I got my information from a very interesting article by one of the 
-founders of Decidim. 
+founders of Open Source Politics. 
 
+## Friday, July 23
+
+Today, during our meeting with Jeff we got a little more information about our 
+objectives for our investigation into OSP and Decidim as a business plan. I 
+spent the morning researching foundations that suppot grants for civic 
+participation, which I created a [file in GitHub](https://github.com/jelkner/decidim2021summer-sprint/blob/main/civic_participation_grants.md) for. One 
+foundation seemed particularly interesting, called the [Foundation to Promote 
+Open Society](https://www.opensocietyfoundations.org/), which is supported by 
+George Soros. 
+
+## Monday, July 26
+
+Today, I continued to look for new reasoning to support why participatory 
+democracy is good and works well. I came across an [article](https://ssir.org/articles/entry/the_moment_for_participatory_democracy) in the [Stanford Social
+Innovation Review](ssir.org) by [Hollie Russon Gilman](https://www.hrgilman.com/), the former open government and innovation policy advisor in the Obama White
+House. The article lays out three models that can overcome the challenges to 
+mobilize civic life and participation: 1. giving government data to citizens, 2.
+giving a direct connection between citizens and their representatives, and 3. 
+giving citizens a part in policy. I think that Decidim pretty easily fulfills 
+all of these aspects. Using the blog feature, governments can post updates on 
+government functionality, they can use the accountability feature to post 
+progress reports on projects, and they can send out newsletters to directly 
+target specific segments of the population. The surveys feature allows for 
+citizens to let the government know what they want and the meetings feature 
+facilitates the creation of face-to-face interactions between politicians and 
+citizens. Finally, the proposals feature and the budget feature allows citizens
+to write their own ideas for government spending/legislation and vote on which
+proposals or projects they'd like to do. 
