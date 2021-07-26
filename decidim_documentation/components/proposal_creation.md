@@ -23,6 +23,9 @@
 1. If you are doing this within a process, the previous step can be repeated for each phase in your process. If you add another phase to the process, you will have to go back in to proposal configuration and edit these for the new phase
 1. **Optional:** You can add an announcement which will appear in each phase similar to the announcement you had the option of making earlier
 1. **Optional:** You can have hashtags automatically added to proposals being made or have them placed as a suggestion to the person making the proposal
+1. Select "Add component" at the bottom
+1. Go to the "Components" page of your process/assembly on the Admin Dashboard and click the check mark next to your proposal component to publish it
+1. Remember that many of these configurations can be changed even after being published
 
 ## Part 2: Making Proposals
 
