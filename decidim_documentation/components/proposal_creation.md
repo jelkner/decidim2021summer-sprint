@@ -3,6 +3,7 @@
 **Part 1 will only work if you are an admin**
 
 ## Part 1: Creating the Component
+
 1. Access the Admin Dashboard
 1. Select either ["Processes"](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/assemblies_docs.md) or ["Assemblies"](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/assemblies_docs.md) on the far left, depending on what you are making this proposal in
 1. Select the process/assembly you wish to create this proposal in
