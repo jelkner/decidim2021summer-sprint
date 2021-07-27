@@ -17,7 +17,7 @@ Opportunity Fund
 "social justice strategies, such as advocacy, community organizing, and civic 
 engagement"
 	* 2021 deadline passed
-<mark>3. [Carnegie Corporation of New York](https://www.carnegie.org/)</mark>
+3. <mark> [Carnegie](https://www.carnegie.org/) Corporation of NY</mark>
 	* Potential area to apply to: Pathways to Citizenship and Civic
 Integration
 	* especially: 3) Citizenship and nonpartisan civic engagement: integrate
