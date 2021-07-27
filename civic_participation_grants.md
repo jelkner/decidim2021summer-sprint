@@ -9,17 +9,23 @@ Economies; 5) Internet Freedom
 	* committed to giving to marginalized communities and at least 25% to 
 "social justice strategies, such as advocacy, community organizing, and civic
 engagement"
+	* 2021 deadline passed
 2. [Silicon Valley Community Foundation](http://www.siliconvalleycf.org) 
 	* Potential areas to apply to: Regional Planning and Community 
 Opportunity Fund
 	* committed to giving to marginalized communities and at least 25% to 
 "social justice strategies, such as advocacy, community organizing, and civic 
 engagement"
+	* 2021 deadline passed
 3. [Carnegie Corporation of New York](https://www.carnegie.org/)
 	* Potential area to apply to: Pathways to Citizenship and Civic
 Integration
 	* especially: 3) Citizenship and nonpartisan civic engagement: integrate
 immigrants into the nation’s civic and economic life;
+	* normally unsolicited grants, but you can apply [here](https://carnegie.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=REGISTRATION). It's pretty
+hidden, and they were pretty discouraging about soliciting grants. But, there is
+no deadline, unlike many of the other foundations so this could be one to start
+with. 
 4. [Foundation to Promote Open Society](http://www.opensocietyfoundations.org)
 	* great opportunity! Seems like they would be super interested in what
 NOVA Web wants to do:
@@ -29,23 +35,31 @@ all their people."
 	* "support groups that monitor government action and promote 
 transparency and accountability as a check on corruption and abuse in the 
 democratic process."
+	* 2021 deadline passed
 5. [NEO Philanthropy, Inc](https://neophilanthropy.org)
 	* Currently doing a [state infrastructure fund](https://neophilanthropy.org/collaborative-funds/state-infrastructure-fund/) targeting specific states, 
 including VA for civic participation and enfranchisement
+	* don't accept unsolicited grant requests...but also provide a contact
+page and say "If you have questions or want to discuss how we can work together,
+don't hesitate to get in touch"...
 6. [The James Irvine Foundation](https://www.irvine.org/our-approach/)
 	* "Residents understand and influence the economic development 
 priorities in their communities"
 	* "Institutions, policies, and practices enable economic advancement and
 civic participation"
 	* For CA only, but I figure since Louis and Colombene are over there
+	* not accepting unsolicited inquiries for grants
 7. [John S. and James L. Knight Foundation, Inc.](https://knightfoundation.org/programs/communities/)
 	* Communities Program, including Long Beach, CA in Los Angeles
 	* "we invest in technology-enabled efforts that help residents connect 
 to each other and become more informed, and that help cities be more responsive 
 to residents."
+	* submit a [letter of inquiry](https://knight.fluxx.io/user_sessions/new)
+	* they'll contact if they are interested, and then submit a full
+proposal
 8. [Pizzigati Prize](https://www.nten.org/community/pizzigati-prize/)
 	* "seeks to honor software developers who create, for free public 
 distribution, open source applications and tools that nonprofit and advocacy 
 groups can put to good use."
 	* could nominate Decidim developers or OSP or NWD
-
+	* will announce schedule for apps this summer
