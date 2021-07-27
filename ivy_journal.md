@@ -234,3 +234,10 @@ facilitates the creation of face-to-face interactions between politicians and
 citizens. Finally, the proposals feature and the budget feature allows citizens
 to write their own ideas for government spending/legislation and vote on which
 proposals or projects they'd like to do. 
+Later, we called Louis to solidify our plans for the last few days of PRIME. 
+It's gone by so quickly, so it does feel weird that there are only a few days
+left. We decided that we could choose one of the foundations and look into the 
+grant requirements and what information would be needed to write a grant so that
+Louis and NWD will be able to write the grants quicker. Obviously, we aren't 
+going to write a grant...that would take a lot of time and isn't necessarily
+even helpful since we might do it in a way that NWD doesn't really want. 
