@@ -20,8 +20,8 @@
 1. **Optional:** You can choose to low actions permissions to be set for each project, which means the creator of a project is able to make the permissions on it unique
 1. **Optional:** You can create an announcement that will appear at the top of the budgets page in a special banner. Use this if there is something that you want to draw attention to
 1. **Optional:** 
-1. **Optional:** 
-1. **Optional:** 
+1. **Optional:** You can choose to put text in the more information modal, which will appear on your budgets page through a button labeled "More information"
+1. **Optional:** If you are making this budget in a process, you can select whether or not you want comments to be blocks, whether or not you want participants to be able to vote, if voting is finished, whether or not to display the vote count, and have the announcement, landing page, and more information modal change for each process. If you are making this in an assembly, you can do the same for the default step settings
 1. Select "Add component" at the bottom
 1. Go to the "Components" page of your process/assembly on the Admin Dashboard and click the check mark next to your proposal component to publish it
 1. Remember that many of these configurations can be changed even after being published
