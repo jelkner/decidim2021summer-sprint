@@ -17,15 +17,15 @@ Opportunity Fund
 "social justice strategies, such as advocacy, community organizing, and civic 
 engagement"
 	* 2021 deadline passed
-3. [Carnegie Corporation of New York](https://www.carnegie.org/)
+<mark>3. [Carnegie Corporation of New York](https://www.carnegie.org/)</mark>
 	* Potential area to apply to: Pathways to Citizenship and Civic
 Integration
 	* especially: 3) Citizenship and nonpartisan civic engagement: integrate
 immigrants into the nation’s civic and economic life;
-	* normally unsolicited grants, but you can apply [here](https://carnegie.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=REGISTRATION). It's pretty
-hidden, and they were pretty discouraging about soliciting grants. But, there is
+	* apply [here](https://carnegie.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=REGISTRATION) by submitting letter of inquiry
+	* they were pretty discouraging about soliciting grants. But, there is
 no deadline, unlike many of the other foundations so this could be one to start
-with. 
+with 
 4. [Foundation to Promote Open Society](http://www.opensocietyfoundations.org)
 	* great opportunity! Seems like they would be super interested in what
 NOVA Web wants to do:
