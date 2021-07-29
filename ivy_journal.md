@@ -268,4 +268,8 @@ decided to go with organizing it by application method and began doing that.
 
 I started out by finishing the reorg of the grants list. I ordered it by mathod of application, with differnt types as follows: Letter of Inquiry, Deadline TBA,
 Deadline Passed, and Not Accepting Solicitations. Then, I started looking into 
-how to certify the union. 
+how to certify the union. I'm not entirely sure about what step in the process
+the AEA is in, but I think they probably still need to be certified. So, they 
+need to choose one person to be their representative, and get signatures to 
+demonstrate that the person has at least 30% of the employees' support. Then,
+the AEA needs to file the document linked in this file.
