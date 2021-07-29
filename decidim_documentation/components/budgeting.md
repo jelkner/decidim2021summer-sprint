@@ -32,10 +32,35 @@ You make the budgets component, then you make budgets within that component, the
 ## Part 2: Making Budgets
 
 1. In the Admin Dashboard, select "Components" on the left side
-1. Select the "Manage" button (the pencil)
+1. Select the "Manage" button (the pencil) on the budget you are editing
 1. Select "New budget" in the top right
 1. Give this budget a title that relates to what you are deciding through these projects
 1. **Optional:** You can give a weight to your new budget. It works just like the weights for componenets, except it will be weighed against the other budgets you create
 1. **Optional:** You can choose to give a brief description of what you are budgeting. Maybe you go into detail about how much money there is to distribute and any other important messages participants should keep in mind prior to voting
 1. Set the total budget available for your projects. If you leave it at 0, there will be no budget and the prices can be anything
 1. Select "Create budget" at the bottom
+
+## Part 3: Making Projects
+
+1. In the Admin Dashboard, select "Components" on the left side
+1. Select the "Manage" button (the pencil) on the budget you are editing
+1. On the budget plan you would like to add a project to, select "Manage projects" (the bullet list icon)
+1. Click "New project" on the top right
+1. Give your project a title that is specific to what you want this plan to be
+1. Add a detailed description of what this plan is
+1. Give the cost of your project as exact as possible
+1. **Optional:** If you have existing categories that you wish to connect this project to, do this now
+1. **Optional:** If this project relates to a proposal, then choose that proposal
+1. **Optional:** You can choose to add an image that relates to this project
+
+## Budget Created
+
+## Additional Information
+
+For information on how to create each component, click [here](https://github.com/jelkner/decidim2021summer-sprint/tree/main/decidim_documentation/components)
+
+For information on assemblies, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/assemblies_docs.md)
+
+For information on creating processes, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/process_creation.md)
+
+To better understand why [NOVA Web Development](https://novawebdevelopment.org/) is working to make this documentation, click [here](https://github.com/jelkner/decidim2021summer-sprint/blob/main/decidim_documentation/docs_explanation.md)
