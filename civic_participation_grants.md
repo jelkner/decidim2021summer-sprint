@@ -21,24 +21,24 @@ These are organizations that have a 2 step application process. First, you
 submit a brief letter with an overview of the process in it. Then, they reply 
 back, either requesting a full proposal or rejecting the application. 
 
-* [Carnegie Corporation of New York]((https://www.carnegie.org/)
+* [Carnegie Corporation of New York](https://www.carnegie.org/)
 	* Potential area to apply to: Pathways to Citizenship and Civic
 Integration
-        * especially: 3) Citizenship and nonpartisan civic engagement: integrate
+	* especially: 3) Citizenship and nonpartisan civic engagement: integrate
 immigrants into the nation’s civic and economic life;
-        * apply [here](https://carnegie.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=REGISTRATION)
+	* apply [here](https://carnegie.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=REGISTRATION)
 * [NEO Philanthropy, Inc](https://neophilanthropy.org)
-        * Currently doing a [state infrastructure fund](https://neophilanthropy.org/collaborative-funds/state-infrastructure-fund/) targeting specific states,
+	* Currently doing a [state infrastructure fund](https://neophilanthropy.org/collaborative-funds/state-infrastructure-fund/) targeting specific states,
 including VA for civic participation and enfranchisement
-        * don't accept unsolicited grant requests...but also provide a contact
+	* don't accept unsolicited grant requests...but also provide a contact
 page and say "If you have questions or want to discuss how we can work together,
 don't hesitate to get in touch"...
 * [John S. and James L. Knight Foundation, Inc.](https://knightfoundation.org/programs/communities/)
-        * Communities Program, including Long Beach, CA in Los Angeles
-        * "we invest in technology-enabled efforts that help residents connect
+	* Communities Program, including Long Beach, CA in Los Angeles
+	* "we invest in technology-enabled efforts that help residents connect
 to each other and become more informed, and that help cities be more responsive
 to residents."
-        * submit a [letter of inquiry](https://knight.fluxx.io/user_sessions/new)
+	* submit a [letter of inquiry](https://knight.fluxx.io/user_sessions/new)
 
 ## Deadline Passed
 
