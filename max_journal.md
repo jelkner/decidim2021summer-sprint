@@ -47,3 +47,9 @@
 
 ## 7/27/2021
 **On the sixteenth day,** I began the day by writing up documentation for the budgets component. The only issue is when there is a configuration that was added more recently than the existing documentation and that I have no idea what it does. I was able to figure out what the issues were, but my documentation got interrupted by the creation of the process to decide where we will eat lunch on Friday. I put in my suggestion for Tupelo Honey and we are still waiting for other proposals to be made.
+
+## 7/28/2021
+**On the seventeenth day,** we had our last virtual group day. We began by making elevator pitches, but then my power went out randomly. It then stayed out until the afternoon and I missed nearly all of the day.
+
+## 7/29/2021
+**On the eighteenth day,**  we began by trying to find an answer to a question Louis had about the legality of using Decidim for union organization.
