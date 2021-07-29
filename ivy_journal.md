@@ -272,4 +272,9 @@ how to certify the union. I'm not entirely sure about what step in the process
 the AEA is in, but I think they probably still need to be certified. So, they 
 need to choose one person to be their representative, and get signatures to 
 demonstrate that the person has at least 30% of the employees' support. Then,
-the AEA needs to file the document linked in this file.
+the AEA needs to file the document linked in this [file](https://github.com/jelkner/decidim2021summer-sprint/blob/main/ProjectAEA/organizing_notes.md).
+After they file that in the regional office (Baltimore) and show the signatures
+supporting it, then the NLRB investigates and makes sure that all is well. After
+that, they can commence elections, to make sure that all voices are being heard,and then finally begin negotiating with the School Board. I will be very 
+interested in the outcome of this campaign, especially if there is any effect in
+teaching style and strategies in teachers. 
