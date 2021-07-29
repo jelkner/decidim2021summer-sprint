@@ -9,11 +9,11 @@ to make it easier to target foundations.
 ## Deadline TBA:
 
 * [Pizzigati Prize](https://www.nten.org/community/pizzigati-prize/)
-        * "seeks to honor software developers who create, for free public
+	* "seeks to honor software developers who create, for free public
 distribution, open source applications and tools that nonprofit and advocacy
 groups can put to good use."
-        * could nominate Decidim developers or OSP or NWD
-        * will announce schedule for apps this summer
+	* could nominate Decidim developers or OSP or NWD
+	* will announce schedule for apps this summer
 
 ## Letters of Inquiry
 
