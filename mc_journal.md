@@ -31,9 +31,11 @@ used to the three git commands: git add, git commit, git push.
 
 **July 24** I researched to find grants for the company.
 
-**July 27** I researched to find grants
+**July 27** I researched to find grants.
 
-**July 29**
+**July 29** I looked for grants.
+
+**July 30** I pasted the grant links into this document.
 
 Grant links
 https://www.grants.gov/web/grants/applicants/workspace-overview/workspace-basic.html
