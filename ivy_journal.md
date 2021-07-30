@@ -297,3 +297,27 @@ astonished by how willing Eloïse was to share how OSP operates and what their
 strategies were. But then I realized, this is the difference between coops and
 mainstream companies. I think this experience has really opened up my eyes to a
 new type of experience and made me a more well-rounded and considerate person. 
+
+Finally, to conclude today, I will address the framing questions for the sprint:
+1. Does existing experience with Decidim in Barcelona and other deployments 
+suggest it is an effective tool for the participatory governance it aims to 
+support?
+2. Assuming the answer to the first question is positive, can NOVA Web 
+Development offer effective support for the platform in deployment, 
+configuration, and user training that would make it attractive to municiple 
+governments interested in participatory democracy?
+ 
+In response to #1, I would say, it depends. Yes, we've seen some really 
+effective deployments of Decidim. But, we've also seen some not as effective 
+deployments of Decidim. I think it really depends on whether or not the 
+government has the technological capability and knowledge to maintain and 
+interact with the site. So in a way, I'd say yes, it *can* be effective. The 
+question is, how can NWD ensure that the government/organization has the skills
+to make it effective? And, how can NWD convince the government/organization that
+the use of Decidim is so important that they should develop these skills?
+
+In response to #2, I would say that yes, I definitely think NWD has the 
+potential to offer Decidim support, following the Open Source Politics model. Of
+course, I'd say that as of right now, NWD is not equipped to do so. However, I'm
+confident that with the assistance of OSP, NWD will get up and running with 
+Decidim. 
