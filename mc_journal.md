@@ -35,7 +35,7 @@ used to the three git commands: git add, git commit, git push.
 
 **July 29** I looked for grants.
 
-**July 30** I pasted the grant links into this document.
+**July 30** I pasted the grant links into this document. I learned a lot from this internship, I am glad that I was could add onto my knowldge and learn about workplace skills that I will bring to my future jobs. Thank you for this amazing opportunity!
 
 Grant links
 https://www.grants.gov/web/grants/applicants/workspace-overview/workspace-basic.html
