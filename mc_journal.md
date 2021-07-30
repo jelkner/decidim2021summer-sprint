@@ -31,6 +31,17 @@ used to the three git commands: git add, git commit, git push.
 
 **July 24** I researched to find grants for the company.
 
-**July 27** I researched to find grants
+**July 27** I researched to find grants.
 
-**July 29** 
+**July 29** I looked for grants.
+
+**July 30** I pasted the grant links into this document. I learned a lot from this internship, I am glad that I was could add onto my knowldge and learn about workplace skills that I will bring to my future jobs. Thank you for this amazing opportunity!
+
+Grant links
+https://www.grants.gov/web/grants/applicants/workspace-overview/workspace-basic.html
+https://www.govloans.gov/loans/equity-investment-small-business-investment-company-(sbic)-program/
+https://www.nist.gov/oaam/grants-management-division/nist-nofo-information
+https://www.nerdwallet.com/article/small-business/small-business-grants
+https://www.sba.gov/partners/sbics/apply-be-sbic
+https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants
+https://www.grantwatch.com/ 
