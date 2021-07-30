@@ -23,3 +23,12 @@ employees in bargaining unit want to be represented
 * file petition and docs with NLRB Regional Office (Source: [NLRB](https://www.nlrb.gov/about-nlrb/what-we-do/conduct-elections))
 * NOVA is [Region 05 - Baltimore](https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices/region-05-baltimore) 
 * Document to fill out for certification [here](https://www.nlrb.gov/sites/default/files/attachments/pages/node-195/nlrb_502rc_2-18.pdf)
+
+
+## Links to Information about LMRDA and OLMS
+
+1. [Labor Management Forms](https://www.dol.gov/agencies/olms/reports/forms/lm-1-lm-2-lm-3-lm-4)
+1. [OLMS](https://www.dol.gov/agencies/olms)
+1. [US Government Accountability Office](https://www.gao.gov/products/hehs-00-116)
+1. [Office of Information and Regulatory Affairs](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=200910&RIN=1215-AB79)
+1. [LMRDA 2008 Process in Congress](https://www.congress.gov/bill/110th-congress/house-bill/5775)
