@@ -30,3 +30,7 @@ used to the three git commands: git add, git commit, git push.
 **July 23** Today I will be researching about grants that can be added to the company.
 
 **July 24** I researched to find grants for the company.
+
+**July 27** I researched to find grants
+
+**July 29** 

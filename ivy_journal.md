@@ -241,3 +241,40 @@ grant requirements and what information would be needed to write a grant so that
 Louis and NWD will be able to write the grants quicker. Obviously, we aren't 
 going to write a grant...that would take a lot of time and isn't necessarily
 even helpful since we might do it in a way that NWD doesn't really want. 
+
+## Tuesday, July 27
+
+Today, I worked on gathering some more information about the grants and 
+foundations. Most of them aren't accepting any more grants this year, which
+makes sense as the financial year is about to close. Some of them don't accept 
+solicitations for grants. Others have you submit a letter of inquiry, and the
+foundation will get in touch if they are interested or not. I think that that
+type makes the most sense because it builds trust, as Jeff said. It also means
+that the risk of getting rejected after you spent all that time researching and
+writing a grant proposal is a lot lower because you are more likely to just be 
+rejected after the initial letter round. We also began a process on Decidim to
+decide where to go for lunch. Finally, near the end of the day I tried to 
+reorganize the list of grants. I wanted to highlight the ones that have the 
+letter of inquiry application process, because those are the ones that Jeff was
+interested in targeting. However, I couldn't figure out how to highlight text on
+Git. So, instead, I decided to start reorganizing the list. I realized that the
+way I had done the list wasn't very smart. I kept it in the same order as on the
+list that I found, which isn't very smart because it makes the list that I made
+pointless since it was basically the same one as the online list. So, I decided
+to find a new way to organize it, in a way that specifically pertained to NWD. I
+decided to go with organizing it by application method and began doing that.
+
+## Thursday, July 29
+
+I started out by finishing the reorg of the grants list. I ordered it by mathod of application, with differnt types as follows: Letter of Inquiry, Deadline TBA,
+Deadline Passed, and Not Accepting Solicitations. Then, I started looking into 
+how to certify the union. I'm not entirely sure about what step in the process
+the AEA is in, but I think they probably still need to be certified. So, they 
+need to choose one person to be their representative, and get signatures to 
+demonstrate that the person has at least 30% of the employees' support. Then,
+the AEA needs to file the document linked in this [file](https://github.com/jelkner/decidim2021summer-sprint/blob/main/ProjectAEA/organizing_notes.md).
+After they file that in the regional office (Baltimore) and show the signatures
+supporting it, then the NLRB investigates and makes sure that all is well. After
+that, they can commence elections, to make sure that all voices are being heard,and then finally begin negotiating with the School Board. I will be very 
+interested in the outcome of this campaign, especially if there is any effect in
+teaching style and strategies in teachers. 
