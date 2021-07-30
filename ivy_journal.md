@@ -278,3 +278,22 @@ supporting it, then the NLRB investigates and makes sure that all is well. After
 that, they can commence elections, to make sure that all voices are being heard,and then finally begin negotiating with the School Board. I will be very 
 interested in the outcome of this campaign, especially if there is any effect in
 teaching style and strategies in teachers. 
+
+## Friday, July 30
+
+Today is the last day of PRIME. I really learned a lot in my internship here. I
+learned, Git, Vim, Unix, and a lot of terminology. I learned about DNS and web
+software installation. I definitely came into this not knowing much, but emerged
+feeling like  I had gained a lot through this experience. It's not really my 
+favorite, but it was as bit interesting to learn about the grant process. I did
+really like learning about the Decidim/open source/participatory government 
+movement. I think that I've always had this very capitalist mindset, whereby 
+companies are supposed to hold their cards close tno their chest, not letting 
+other people know about their techniques/methods in order to prioritize profit.
+This was really an eye-opening experience, as I learned about Principle 6. I 
+also saw this in practice, as Open Source Politics offered to guide NWD through
+the Decidim installation process. As I sat there in that meeting, I kept being
+astonished by how willing Eloïse was to share how OSP operates and what their 
+strategies were. But then I realized, this is the difference between coops and
+mainstream companies. I think this experience has really opened up my eyes to a
+new type of experience and made me a more well-rounded and considerate person. 
